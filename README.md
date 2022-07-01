@@ -1,5 +1,5 @@
 ### Hello, wolrd
-Bem vindo(a) ao meu GitHub 👋
+Bem vindo(a) 👋
 
 <!--
 **vanessapacifico/vanessapacifico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
