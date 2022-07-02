@@ -1,7 +1,7 @@
 ### Hello, wolrd
 Bem vindo(a) 👋
 
-![image](https://user-images.githubusercontent.com/106626735/177006254-57ff7755-b6d0-4507-954d-d9a0288c5978.png)
+![image](https://user-images.githubusercontent.com/106626735/177006583-903c639f-fb9e-4b66-a024-b1a6c3ef3086.png)
 
 
 ### Contatos:
