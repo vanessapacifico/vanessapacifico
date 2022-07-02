@@ -1,6 +1,9 @@
 ### Hello, wolrd
 Bem vindo(a) 👋
 
+![image](https://user-images.githubusercontent.com/106626735/176980943-12d382b7-876b-4699-8652-0c731b466f9c.png)
+
+
 ### Contatos:
 
 <div>
