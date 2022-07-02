@@ -1,7 +1,5 @@
 ### Hello, wolrd
 Bem vindo(a) 👋
-![octocat-1656715936306](https://user-images.githubusercontent.com/106626735/176980851-d22e46d3-c8de-4e57-b498-1baf95f80f39.png)
-
 
 ### Contatos:
 
