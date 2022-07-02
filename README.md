@@ -1,5 +1,5 @@
 ### Hello, wolrd
-Bem vindo(a) 👋
+Bem vindo(a), Devs 👋
 
 ![image](https://user-images.githubusercontent.com/106626735/177006583-903c639f-fb9e-4b66-a024-b1a6c3ef3086.png)
 
